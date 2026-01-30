@@ -4,8 +4,7 @@
  * @returns {boolean} - Returns true if even, false otherwise.
  */
 function isEven(number) {
-  // Use the modulo operator (%) to find the remainder when divided by 2
-  // If the remainder is exactly 0, the number is even
+
   return number % 2 === 0; 
 }
 
