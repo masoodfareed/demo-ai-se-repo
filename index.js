@@ -9,18 +9,7 @@ function isEven(number) {
   return number % 2 === 0; 
 }
 
-//console.log(1);
 
-
-// syntax error
-
-// if (x > 5) {
-//    console.log("Hello");
-// }
-
-// runtime error
-
-// logical errors
 
 function add(a , b)
 {
