@@ -22,5 +22,6 @@ function greet(name)
 
 greet('masood');
 greet('true');
+greet('false');
 
 
