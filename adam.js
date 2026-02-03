@@ -1,1 +1,1 @@
-command.log('adam')
+console.log('adam')
